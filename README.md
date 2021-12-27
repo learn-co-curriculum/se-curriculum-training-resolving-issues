@@ -105,3 +105,6 @@ right now! Head to the issues page for this lesson's repo:
 You'll see one open issue. Use the steps above to resovle the issue, and make
 sure your change is reflected in this Canvas course as well as any associated
 courses (make sure to sync your update).
+
+[link issue]:
+  https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
