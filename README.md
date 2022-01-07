@@ -102,7 +102,7 @@ right now! Head to the issues page for this lesson's repo:
 
 - https://github.com/learn-co-curriculum/se-curriculum-training-resolving-issues/issues
 
-You'll see one open issue. Use the steps above to resovle the issue, and make
+You'll see one open issue. Use the steps above to resolve the issue, and make
 sure your change is reflected in this Canvas course as well as any associated
 courses (make sure to sync your update).
 
