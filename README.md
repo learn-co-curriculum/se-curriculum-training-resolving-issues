@@ -13,7 +13,7 @@ instructors open up issues on GitHub whenever they have a problem with a
 specific lesson. The curriculum team has weekly "issues sprints" where we divvy
 up the open issues and work through the backlog from the previous week. This
 process allows us to stay on top of all open issues, and let students and
-instructions know that their issue was resolved.
+instructors know that their issue was resolved.
 
 ## Identifying SE Issues
 
@@ -24,7 +24,7 @@ the following template:
 - [SE Issues Template](https://github.com/learn-co-curriculum/.github/blob/main/.github/ISSUE_TEMPLATE/se_report.yml)
 
 This template helps ensure that we get all the necessary information about the
-issue that is needed to resolve it, and it also adds a `se-curriculum` label to
+issue that is needed to resolve it, and it also adds an `se-curriculum` label to
 the issue which makes it easier to differentiate from issues on non-SE lessons.
 
 To review all open issues that have the `se-curriculum` label, use this link:
@@ -63,11 +63,12 @@ not actionable:
   (with a smile! and a comment) and ask them to re-open if they come across the
   issue again.
 
-You can view common saved responses in the legacy curriculum team ["Saved
-Replies"][saved replies] folder and find a reply that suits your need.
+You can view common saved responses in the SE Curriculum Docs' ["Saved
+Replies"][saved replies] section and find a reply that suits your need. These
+replies can be considered to be a starting point — feel free to edit as desired.
 
 [saved replies]:
-  https://github.com/learn-co-curriculum/curriculum-team/tree/master/saved-replies
+  https://musical-waddle-2d4eff4c.pages.github.io/docs/issues/saved-replies/canvas-raised-issue-success
 
 If action does need to be taken, your next step should be to respond to the
 student on GitHub by replying to the issue to let them know you'll be looking
