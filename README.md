@@ -29,13 +29,13 @@ the issue which makes it easier to differentiate from issues on non-SE lessons.
 
 To review all open issues that have the `se-curriculum` label, use this link:
 
-- https://github.com/issues?q=user%3Alearn-co-curriculum+label%3A%22se+curriculum%22+is%3Aopen+
+- <https://github.com/issues?q=user%3Alearn-co-curriculum+label%3A%22se+curriculum%22+is%3Aopen>+
 
 On occasion, students will submit issues without using the correct template, so
 the `se-curriculum` label won't be applied. For that reason, it's also helpful
 to view recent issues from the Insights page:
 
-- https://github.com/orgs/learn-co-curriculum/insights
+- <https://github.com/orgs/learn-co-curriculum/insights>
 
 Clicking "Issues" on this page will search for issues from the past week, and
 you can look for other open issues on SE lessons that don't have the correct
@@ -101,9 +101,9 @@ and have a plan on how to fix it. Here's an approximate workflow to follow:
 To practice resolving an issue, we'll make a fix to the lesson you're working on
 right now! Head to the issues page for this lesson's repo:
 
-- https://github.com/learn-co-curriculum/se-curriculum-training-resolving-issues/issues
+- <https://github.com/learn-co-curriculum/se-curriculum-training-resolving-issues/issues>
 
-You'll see one open issue. Use the steps above to resovle the issue, and make
+You'll see one open issue. Use the steps above to resolve the issue, and make
 sure your change is reflected in this Canvas course as well as any associated
 courses (make sure to sync your update).
 
