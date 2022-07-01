@@ -57,14 +57,15 @@ needed beyond a response to the student. Here is a summary of issues that are
 not actionable:
 
 - A misunderstanding with the challenge. Please tell them to use [Pair With a
-  Technical Coach (PTC)][PTC], which they can access from Canvas by clicking the
+  Technical Coach (PTC)][ptc], which they can access from Canvas by clicking the
   chat box in the lower right corner.
 - This is an issue that you can't replicate. Ask the reporter for more
   details...then check back in a week. If they haven't responded close the issue
   (with a smile! and a comment) and ask them to re-open if they come across the
   issue again.
-  
-[PTC]: https://docs.google.com/document/d/1Gko5UFzCBhpo1R0V_Tx2JHSK9cRC2b_53Ky3u5Qtzlk/edit
+
+[ptc]:
+  https://docs.google.com/document/d/1Gko5UFzCBhpo1R0V_Tx2JHSK9cRC2b_53Ky3u5Qtzlk/edit
 
 You can view common saved responses in the SE Curriculum Docs' ["Saved
 Replies"][saved replies] section and find a reply that suits your need. These
@@ -106,7 +107,7 @@ right now! Head to the issues page for this lesson's repo:
 
 - https://github.com/learn-co-curriculum/se-curriculum-training-resolving-issues/issues
 
-You'll see one open issue. Use the steps above to resovle the issue, and make
+You'll see one open issue. Use the steps above to resolve the issue, and make
 sure your change is reflected in this Canvas course as well as any associated
 courses (make sure to sync your update).
 
