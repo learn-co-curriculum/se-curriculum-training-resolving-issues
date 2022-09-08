@@ -84,7 +84,7 @@ To fix an issue, you need to first make sure you understand the issue clearly
 and have a plan on how to fix it. Here's an approximate workflow to follow:
 
 1. Clone down the lesson repository
-2. Create a branch for your change (or mutliple branches, if the solution branch
+2. Create a branch for your change (or multiple branches, if the solution branch
    needs to be updated as well)
 3. Make your change in the branch, test the code (use the lab tests and solution
    branch if applicable) and commit your changes
